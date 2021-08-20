@@ -1,0 +1,5 @@
+log:
+  level: debug
+
+sqlite3:
+  db_path: "dong.db"
